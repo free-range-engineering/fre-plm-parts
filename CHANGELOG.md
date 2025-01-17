@@ -1,3 +1,9 @@
+## 1.1.0 (2025-01-17)
+
+### Feat
+
+- Added JLCPCB basic ESD protection devices
+
 ## 1.0.3 (2025-01-17)
 
 ### Fix
