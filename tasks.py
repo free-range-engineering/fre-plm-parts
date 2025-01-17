@@ -24,7 +24,7 @@ def create(c):
             csv_file = f'./database/g-{lib}.csv'
             if os.path.exists(csv_file):
                 df = pd.read_csv(csv_file)
-                df.columns = df.columns.str.strip()
+                df = df.map(lambda x: x.strip() if isinstance(x, str) else x) # Trim whitespaces from rows
                 df.to_sql(lib, conn, if_exists='replace', index=False)
                 table_data.append(
                     [lib, Fore.BLUE+str(len(df)), Fore.GREEN+"Ok"+Style.RESET_ALL])
