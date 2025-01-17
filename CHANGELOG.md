@@ -1,3 +1,9 @@
+## 1.0.2 (2025-01-17)
+
+### Fix
+
+- Added stripping to all data read from cvs
+
 ## 1.0.1 (2025-01-17)
 
 ### Fix
