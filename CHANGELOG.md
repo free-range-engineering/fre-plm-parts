@@ -1,3 +1,9 @@
+## 1.0.3 (2025-01-17)
+
+### Fix
+
+- Added  both row and collumn stripping
+
 ## 1.0.2 (2025-01-17)
 
 ### Fix
