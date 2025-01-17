@@ -1,0 +1,2 @@
+IPN,MPN,Manufacturer,Description,Voltage,Current,Symbol,Footprint,Datasheet,JPN,JPT
+REG-0001-2233,XC6206P332MR-G,Torex Semicon,Voltage Regulators 3.3V 200mA Fixed 6V SOT-23-3L,3.3V,200mA,Regulator_Linear:XC6206PxxxMR,Package_TO_SOT_SMD:SOT-23-3,https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Torex-Semicon-XC6206P332MR-G_C5446.pdf,C5446,Basic

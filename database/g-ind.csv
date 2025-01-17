@@ -1,0 +1,2 @@
+IPN,MPN,Manufacturer,Description,Symbol,Footprint,Inductance,Current,Datasheet,JPN,JPT
+IND-0001-0000,GZ2012D101TF,Sunlord,Ferrite Bead 100Ω@100MHz ±25% 0805,Device:FerriteBead_Small,Inductor_SMD:L_0805_2012Metric,100Ω@100MHz,800mA,https://www.lcsc.com/datasheet/lcsc_datasheet_2310301640_Sunlord-GZ2012D101TF_C1015.pdf,C1015,Basic
