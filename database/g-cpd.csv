@@ -1,2 +1,4 @@
 IPN,MPN,Manufacturer,Description,Symbol,Footprint,Datasheet,JPN,JPT
 CPD-0001-6052,TLC-FSMD050,TLC Electronic,Fuse Resettable 6V 500mA 0603,Device:Fuse,Fuse:Fuse_0603_1608Metric,https://www.lcsc.com/datasheet/lcsc_datasheet_1811032119_TLC-Electronic-TLC-FSMD050_C261937.pdf,C261937,Extended
+CPD-0002-0023,PSM712-LF-T7,ProTek Devices,ESD and Surge Protection SOT-23,g-cpd:PSM712-LF-T7,Package_TO_SOT_SMD:SOT-23,https://www.lcsc.com/datasheet/lcsc_datasheet_1811061632_ProTek-Devices-PSM712-LF-T7_C32677.pdf,C32677,Basic
+CPD-0003-0214,P6SMB6,Brightking,ESD and Surge Protection SMB(DO-214AA),g-cpd:P6SMB6,Diode_SMD:D_SMB,https://www.lcsc.com/datasheet/lcsc_datasheet_1810181007_Brightking-P6SMB6-8CA-TR13_C78395.pdf,C78395,Basic
