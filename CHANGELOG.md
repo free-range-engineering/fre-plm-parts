@@ -1,3 +1,15 @@
+## 2.1.0 (2025-03-08)
+
+### Feat
+
+- Added release task
+- Added SMF05CT1G ESD protection diode
+- Changed default visability of part properties on add
+
+### Fix
+
+- Correctly added .gitignore
+
 ## 2.0.0 (2025-01-18)
 
 ### Feat
