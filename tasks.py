@@ -14,6 +14,9 @@ DBFILE = './database/parts.sqlite'
 
 @task()
 def create(c):
+    """
+    Create/Update the parts database from CSV files.
+    """
     print("Creating the database from CSV files.")
     conn = sqlite3.connect(DBFILE)
     try:
@@ -41,3 +44,13 @@ def create(c):
         conn.close()
 
     print("Database creation process is complete. All libraries processed.")
+    
+@task()
+def release(c, dry_run=True):
+    """
+    Release/Bump the version using commitizen (cz).
+    
+    Parameters:
+    dry_run (bool): If True, perform a dry run without making any changes. Default is True.
+    """
+    c.run(f"cz bump {'--dry-run' if dry_run else ''}")
