@@ -92,7 +92,7 @@
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
+          "name": "JLCPCB Type",
           "visible_on_add": false,
           "visible_in_chooser": false,
           "show_name": false
@@ -144,28 +144,28 @@
         {
           "column": "Capacitance",
           "name": "Capacitance",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "Voltage",
           "name": "Voltage",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "Material",
           "name": "Material",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "Tolerance",
           "name": "Tolerance",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
@@ -179,14 +179,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -223,7 +223,7 @@
         {
           "column": "MPN",
           "name": "MPN",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
@@ -251,14 +251,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -309,14 +309,14 @@
         {
           "column": "Inductance",
           "name": "Inductance",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "Current",
           "name": "Current",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
@@ -330,14 +330,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -374,7 +374,7 @@
         {
           "column": "MPN",
           "name": "MPN",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
@@ -395,14 +395,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -460,14 +460,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -525,14 +525,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -590,14 +590,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -634,21 +634,21 @@
         {
           "column": "MPN",
           "name": "MPN",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "Voltage",
           "name": "Voltage",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "Current",
           "name": "Current",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
@@ -669,14 +669,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -727,21 +727,21 @@
         {
           "column": "Resistance",
           "name": "Resistance",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "Power",
           "name": "Power",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "Tolerance",
           "name": "Tolerance",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
@@ -755,14 +755,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -813,14 +813,14 @@
         {
           "column": "Current",
           "name": "Current",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "Voltage",
           "name": "Voltage",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
@@ -834,14 +834,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -899,14 +899,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -964,14 +964,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -1008,7 +1008,7 @@
         {
           "column": "MPN",
           "name": "MPN",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
@@ -1029,14 +1029,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -1115,14 +1115,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -1201,14 +1201,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -1245,14 +1245,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
@@ -1310,14 +1310,14 @@
         {
           "column": "JPN",
           "name": "JLC",
-          "visible_on_add": true,
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         },
         {
           "column": "JPT",
-          "name": "JLCPCB Type ",
-          "visible_on_add": true,
+          "name": "JLCPCB Type",
+          "visible_on_add": false,
           "visible_in_chooser": true,
           "show_name": false
         }
