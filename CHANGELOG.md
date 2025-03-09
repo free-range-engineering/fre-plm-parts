@@ -1,3 +1,10 @@
+## 2.2.0 (2025-03-09)
+
+### Feat
+
+- Added STM32G0B1RET6
+- Added USBLC6-2SC6
+
 ## 2.1.0 (2025-03-08)
 
 ### Feat
