@@ -1,1 +1,2 @@
 IPN,MPN,Manufacturer,Description,Symbol,Footprint,Datasheet,JPN,JPT
+MCU-0001-5144,STM32G0B1RET6,ST,STM32G0B1RET6 LQFP-64 512 Flash 144 Ram,MCU_ST_STM32G0:STM32G0B1RETx,Package_QFP:LQFP-64_10x10mm_P0.5mm,https://www.st.com/resource/en/datasheet/stm32g0b1re.pdf,C2829307,Extended
