@@ -1,3 +1,9 @@
+## 2.5.0 (2025-03-16)
+
+### Feat
+
+- Added OSC 8MHz Surface Mount Crystal
+
 ## 2.4.0 (2025-03-16)
 
 ### Feat
