@@ -1,3 +1,16 @@
+## 2.3.0 (2025-03-16)
+
+### Feat
+
+- Added CON FTSH-107-01-L-DV-K (STDC14)
+- Added several RES values
+- Added several LDO regulators
+- Added script to help adding components from JLCPCB. (WIP)
+- Added model folder an list of models that can not be distributed due to licensing
+- Added Several Transistors
+- Added two TI CAN Transivers
+- Added more CAP type components
+
 ## 2.2.0 (2025-03-09)
 
 ### Feat
