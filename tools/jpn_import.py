@@ -40,7 +40,8 @@ category_map = {
     "Interface/CAN Transceivers": ComponentCategory.ICS,
     "Transistors/Thyristors/Bipolar (BJT)": ComponentCategory.XTR,
     "Transistors/Thyristors/MOSFETs": ComponentCategory.XTR,
-    "Power Management (PMIC)/Voltage Regulators - Linear, Low Drop Out (LDO) Regulators": ComponentCategory.REG
+    "Power Management (PMIC)/Voltage Regulators - Linear, Low Drop Out (LDO) Regulators": ComponentCategory.REG,
+    "Crystals, Oscillators, Resonators/Crystals": ComponentCategory.OSC,
 }
 
 
@@ -155,6 +156,22 @@ def format_to_row(data: dict):
                              data["Datasheet"],
                              data["JPN"],
                              data["JPT"]])
+        if category == ComponentCategory.OSC:
+            return ",".join(["OSC-XXXX-XXXX",
+                            data["MPN"],
+                            data["Manufacturer"].replace(",", " "),
+                            data["Description"].replace(",", " "),
+                            data["Frequency"],
+                            data["Frequency Stability"],
+                            data["Load Capacitance"],
+                            "UNKNOWN",
+                             data["Package"],
+                             data["Datasheet"],
+                             data["JPN"],
+                             data["JPT"]])
+            
+            
+            
     except KeyError as e:
         print(data)
         raise e

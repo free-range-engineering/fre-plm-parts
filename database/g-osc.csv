@@ -1,1 +1,2 @@
-IPN,MPN,Manufacturer,Description,Symbol,Footprint,Frequency,Stability,Load,Datasheet,JPN,JPT
+IPN          , MPN         , Manufacturer           , Description                                                        , Frequency, Stability, Load, Symbol              , Footprint, Datasheet                                                                                                , JPN    , JPT
+OSC-0001-08220, X50328MSB2GI, YXC Crystal Oscillators, 8MHz Surface Mount Crystal 20pF ±10ppm ±20ppm SMD5032 Crystals ROHS, 8MHz     , ±20ppm   , 20pF, Device:Crystal_Small, Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm  , https://www.lcsc.com/datasheet/lcsc_datasheet_2403291504_YXC-Crystal-Oscillators-X50328MSB2GI_C115962.pdf, C115962, Basic
