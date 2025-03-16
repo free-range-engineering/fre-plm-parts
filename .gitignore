@@ -1,3 +1,4 @@
 .vscode
 parts.sqlite
 *.bak
+*_pycache_*
