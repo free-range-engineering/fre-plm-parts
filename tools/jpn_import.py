@@ -42,6 +42,7 @@ category_map = {
     "Transistors/Thyristors/MOSFETs": ComponentCategory.XTR,
     "Power Management (PMIC)/Voltage Regulators - Linear, Low Drop Out (LDO) Regulators": ComponentCategory.REG,
     "Crystals, Oscillators, Resonators/Crystals": ComponentCategory.OSC,
+    'Filters/EMI/RFI Filters (LC, RC Networks)':ComponentCategory.RFM
 }
 
 
@@ -169,7 +170,16 @@ def format_to_row(data: dict):
                              data["Datasheet"],
                              data["JPN"],
                              data["JPT"]])
-            
+        if category == ComponentCategory.RFM:
+            return ",".join(["RFM-XXXX-XXXX",
+                            data["MPN"],
+                            data["Manufacturer"].replace(",", " "),
+                            data["Description"].replace(",", " "),
+                            "UNKNOWN",
+                             data["Package"],
+                             data["Datasheet"],
+                             data["JPN"],
+                             data["JPT"]])
             
             
     except KeyError as e:
