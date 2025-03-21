@@ -1,3 +1,13 @@
+## 2.7.0 (2025-03-21)
+
+### Feat
+
+- Added ICS-0004-0005,TCPP01-M12,STMicroelectronics,USB Type-C and power delivery protection for sink application,
+
+### Fix
+
+- Corrected IPN
+
 ## 2.6.0 (2025-03-16)
 
 ### Feat
