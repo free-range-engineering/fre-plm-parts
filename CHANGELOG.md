@@ -1,3 +1,9 @@
+## 2.8.0 (2025-03-22)
+
+### Feat
+
+- Added CPD-0007-3522,ESDA25P35-1U1M,STMicroelectronics,35A@8/20us 41V 1.4kW 23.3V 22V DFN1610-2 ESD and Surge Protection
+
 ## 2.7.0 (2025-03-21)
 
 ### Feat
