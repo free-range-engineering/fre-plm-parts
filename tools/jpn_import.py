@@ -44,7 +44,8 @@ category_map = {
     "Crystals, Oscillators, Resonators/Crystals": ComponentCategory.OSC,
     'Filters/EMI/RFI Filters (LC, RC Networks)':ComponentCategory.RFM,
     'Circuit Protection/ESD and Surge Protection (TVS/ESD)':ComponentCategory.CPD,
-    'Interface/Analog Switches, Multiplexers':ComponentCategory.ICS
+    'Interface/Analog Switches, Multiplexers':ComponentCategory.ICS,
+    'Motor Driver ICs/Stepper Motor Driver':ComponentCategory.ICS
     
 }
 
