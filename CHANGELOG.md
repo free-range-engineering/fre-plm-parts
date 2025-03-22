@@ -1,3 +1,14 @@
+## 2.9.0 (2025-03-22)
+
+### Feat
+
+- Added ICS-0006-2226,TMC2226-SA-T,TRINAMIC Motion Control GmbH,HTSSOP-28-EP-4.5mm Stepper Motor Driver
+- Added ICS-0005-4066,SN74HC4066PWR,Texas Instruments,50Ω 4 TSSOP-14 Analog Switches  Multiplexers ROHS
+
+### Fix
+
+- Fixed package for XTR-0007-6010, 2N7002W
+
 ## 2.8.0 (2025-03-22)
 
 ### Feat
