@@ -43,7 +43,8 @@ category_map = {
     "Power Management (PMIC)/Voltage Regulators - Linear, Low Drop Out (LDO) Regulators": ComponentCategory.REG,
     "Crystals, Oscillators, Resonators/Crystals": ComponentCategory.OSC,
     'Filters/EMI/RFI Filters (LC, RC Networks)':ComponentCategory.RFM,
-    'Circuit Protection/ESD and Surge Protection (TVS/ESD)':ComponentCategory.CPD
+    'Circuit Protection/ESD and Surge Protection (TVS/ESD)':ComponentCategory.CPD,
+    'Interface/Analog Switches, Multiplexers':ComponentCategory.ICS
     
 }
 
